@@ -1,0 +1,116 @@
+.welcome-one {
+  height: 100vh;
+  margin-bottom: 0% !important;
+  width: auto;
+}
+
+.home-container {
+  width: 100vw !important;
+  height: 100vh !important;
+  background: url("./images/home_bg_opacity.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.main-container {
+  height: 100vh !important;
+  margin-bottom: 0% !important;
+}
+
+.welcome-title {
+  color: #a64f4f;
+}
+
+.welcome-btn {
+  background-color: #860f10;
+}
+
+.btn {
+  border-radius: 0% !important;
+}
+
+.welcome-btn:hover,
+.welcome-btn:focus,
+.welcome-btn:active,
+.welcome-btn.active,
+.open > .dropdown-toggle.welcome-btn {
+  color: #fff !important;
+  background-color: #00b3db;
+  border-color: #285e8e; /*set the color you want here*/
+}
+.btn-common:hover,
+.btn-common:focus,
+.btn-common:active,
+.btn-common.active,
+.open > .dropdown-toggle.btn-common {
+  color: #fff !important;
+  background-color: #00b3db;
+  border-color: #285e8e; /*set the color you want here*/
+}
+
+.rights-text {
+  font-size: 12px;
+}
+
+.btn-common {
+  background-color: #e74a4a;
+}
+
+.dollar {
+  color: #ff9000;
+}
+
+.account-width {
+  width: 280px;
+  cursor: pointer;
+}
+
+.account-image {
+  width: 280px;
+  height: 190px;
+}
+
+.pointer {
+  cursor: "pointer" !important;
+}
+
+a {
+  text-decoration: none !important;
+  transform: none !important;
+}
+
+.compare-bg {
+  background-color: #f4f4f5;
+}
+
+.compare-card {
+  width: 25%;
+}
+
+.text-success {
+  color: #2bd55c !important;
+}
+
+.white-btn {
+  outline: #e74a4a;
+  border-color: #e74a4a !important;
+}
+
+.login-container {
+  height: 100vh;
+}
+
+
+@media (min-width: 1270px) and (max-width: 1285px) {
+  .account-width {
+    width: 250px;
+    cursor: pointer;
+  }
+
+  .account-image {
+    width: 250px;
+    height: 160px;
+  }
+}
