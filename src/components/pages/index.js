@@ -7,6 +7,9 @@ import AboutUs from "./AboutUs";
 import News from "./News";
 import Compare from "./Compare";
 import Login from "./Login";
+import Careers from "./Careers";
+import Career from "./Career";
+import HRCareer from "./HRCareer";
 
 export {
   WelcomeOne,
@@ -17,5 +20,8 @@ export {
   AboutUs,
   News,
   Compare,
-  Login
+  Login,
+  Careers,
+  Career,
+  HRCareer
 };

@@ -1,3 +1,9 @@
+@import url("./fonts/style.css");
+
+body {
+  font-family: "Carviar Dreams Bold" !important;
+}
+
 .welcome-one {
   height: 100vh;
   margin-bottom: 0% !important;
@@ -102,6 +108,23 @@ a {
   height: 100vh;
 }
 
+.career-header {
+  background: url("./images/account_two.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 400px;
+}
+
+.career-image {
+  height: 100%;
+  width: 100%;
+}
+
+.career-items {
+  height: 50%;
+}
 
 @media (min-width: 1270px) and (max-width: 1285px) {
   .account-width {
