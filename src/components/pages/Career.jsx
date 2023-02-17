@@ -19,93 +19,105 @@ const Career = () => {
           <div className="col-md-8 bg-white shadow-sm ms-2 p-3">
             <div className="display-6 fs-4 ">Frontend Software Developer</div>
             <div className="py-4">
-              At our company, we believe in creating a dynamic and innovative
-              work environment where our team can grow and develop
-              professionally. We offer exciting opportunities for those who are
-              passionate about their work and are mission-driven. Our focus on a
-              positive work-life balance, comprehensive benefits, and a
-              supportive culture make it a rewarding place to build a career.
-              Whether you're just starting out or looking for a change, we're
-              always looking for talented individuals to join our collaborative
-              and dynamic team. If you're ready for a challenge and want to be a
-              part of something special, come join us on our mission.
+              We are looking for a candidate who is passionate about our mission
+              and is ready to join a small team of dedicated and enthusiastic
+              individuals. As a Front-end Software developer, you should have a
+              keen eye for design and will be responsible for implementing
+              visual elements that users see and interact. You will responsible
+              for ensuring the alignment of web design and user experience
+              requirements, optimizing web pages for maximum efficiency, and
+              maintaining brand consistency across all web pages, among other
+              duties. You will be required to work in teams alongside back-end
+              developers, graphics designers and the rest of team to ensure all
+              elements of web creation are consistent. However, you will work
+              closely with and supported by Back-end Software Developers.
             </div>
-            <div className="display-6 fs-5">Key roles and responsibilities</div>
+            <div className="display-6 fs-5">
+              Day-to-day Duties and Responsibilities{" "}
+            </div>
             <div className="py-3">
               <ul>
-                <li>
-                  Building strong working relationships and interactions with
-                  clients to ensure continuous efficient information flow from
-                  the client to the audit team. ▪ Guide proper Business decision
-                  making through accurate, timely and relevant HR Dashboard
-                  preparation, specifically monitoring and advising on
-                  Headcount, productivity and team engagement matters.
-                </li>
-                <li>
-                  Building strong working relationships and interactions with
-                  clients to ensure continuous efficient information flow from
-                  the client to the audit team. ▪ Guide proper Business decision
-                  making through accurate, timely and relevant HR Dashboard
-                  preparation, specifically monitoring and advising on
-                  Headcount, productivity and team engagement matters.
-                </li>
+                <li>Determining the structure and design of web pages</li>
+                <li>Ensuring user experience determines design choices</li>
 
+                <li>Developing features to enhance the user experience</li>
                 <li>
-                  Building strong working relationships and interactions with
-                  clients to ensure continuous efficient information flow from
-                  the client to the audit team. ▪ Guide proper Business decision
-                  making through accurate, timely and relevant HR Dashboard
-                  preparation, specifically monitoring and advising on
-                  Headcount, productivity and team engagement matters.
+                  Striking a balance between functional and aesthetic design
                 </li>
+                <li>Ensuring web design is optimized for smartphones</li>
+                <li>Building reusable code for future use</li>
+                <li>Optimizing web pages for maximum speed and scalability</li>
                 <li>
-                  Building strong working relationships and interactions with
-                  clients to ensure continuous efficient information flow from
-                  the client to the audit team. ▪ Guide proper Business decision
-                  making through accurate, timely and relevant HR Dashboard
-                  preparation, specifically monitoring and advising on
-                  Headcount, productivity and team engagement matters.
+                  Utilizing a variety of markup languages to write web pages
                 </li>
-                <li>
-                  Building strong working relationships and interactions with
-                  clients to ensure continuous efficient information flow from
-                  the client to the audit team. ▪ Guide proper Business decision
-                  making through accurate, timely and relevant HR Dashboard
-                  preparation, specifically monitoring and advising on
-                  Headcount, productivity and team engagement matters.
-                </li>
+                <li>Maintaining brand consistency throughout the design</li>
               </ul>
             </div>
             <div className="display-6 fs-5">
-              Skills, Qualification and Experience:
+              Also, a Front-end Software Developer should have these Skills and
+              Experiences:
             </div>
             <div className="py-3">
               <ul>
-                <li>A degree from a recognised university.</li>
-                <li>A degree from a recognised university.</li>
-                <li>A degree from a recognised university.</li>
-                <li>A degree from a recognised university.</li>
-                <li>A degree from a recognised university.</li>
+                <li>
+                  {" "}
+                  Excellent analytical, time management and teamwork skills with
+                  a problem-solving attitude
+                </li>
+                <li> Effectively communicate in English (written & verbal)</li>
+                <li> Understanding of key design principle</li>
+                <li> Proficiency in HTML, CSS, JavaScript, and jQuery</li>
+                <li>Understanding of server-side CSS.</li>
+                <li>
+                  {" "}
+                  Experience with Graphics Designer applications such as Adobe
+                  Illustrator
+                </li>
+                <li> Good problem-solving skills</li>
+                <li> Excellent verbal communication skills n</li>
+                <li> Good interpersonal skills</li>
+                <li>
+                  {" "}
+                  Good understanding of asynchronous request handing, partial
+                  page updates, and AJAX •{" "}
+                </li>
+                <li>
+                  Basic Knowledge of image authoring tools, to be able to crop,
+                  resize or perform small adjustments on an image.{" "}
+                </li>
+                <li>
+                  {" "}
+                  Proficient understanding of cross-browser compatibility issues
+                  and ways to work around them
+                </li>
               </ul>
             </div>
-            <div className="display-6 fs-5">Personal attributes:</div>
+            <div className="display-6 fs-5">Minimum Qualifications</div>
             <div className="py-3">
               <ul>
-                <li>IT proficiency, especially JavaScript Language</li>
-                <li>IT proficiency, especially JavaScript Language</li>
-                <li>IT proficiency, especially JavaScript Language</li>
-                <li>IT proficiency, especially JavaScript Language</li>
-                <li>IT proficiency, especially JavaScript Language</li>
+                <li>
+                  Bachelor’s degree in computer science, engineering or
+                  equivalent industry experience. • Proficient knowledge of
+                  JavaScript and jQuery
+                </li>
+                <li>1 to 2 Years of software engineering experience</li>
               </ul>
             </div>
-            <div className="display-6 fs-5">We offer:</div>
+            <div className="display-6 fs-5">Preferred Qualifications:</div>
             <div className="py-3">
               <ul>
-                <li>Exposure to multi-disciplinary client service teams.</li>
-                <li>Exposure to multi-disciplinary client service teams.</li>
-                <li>Exposure to multi-disciplinary client service teams.</li>
-                <li>Exposure to multi-disciplinary client service teams.</li>
-                <li>Exposure to multi-disciplinary client service teams.</li>
+                <li> TypeScript</li>
+                <li> React + Redux .</li>
+                <li>Next.js</li>
+                <li> NodeJS</li>
+                <li> Babel + Webpack + Bazel</li>
+                <li> Jest + ESLint + Prettier</li>{" "}
+                <li> Jenkins / Buildkite + Docker + Kubernetes</li>{" "}
+                <li>Figma</li>
+                <li>Invision</li>
+                <li>
+                  Familiarity with tools such as Gimp or Photoshop is a plus.
+                </li>
               </ul>
             </div>
 
